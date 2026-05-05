@@ -1,0 +1,5 @@
+Student Registration Number: IT23177628
+Assignment: IT3040 ITPM Assignment 1 - Option 1
+
+Public Git Repository Link:
+https://github.com/kalanirathnayaka21/itpm-assignment-it23177628
